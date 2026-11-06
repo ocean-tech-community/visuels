@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "images": [
+    {
+      "name": "ocean-tech-banniere",
+      "path": "images/newsletter/ocean-tech-banniere.png",
+      "origin": "Éléments originaux du design newsletter Ocean Tech validé le 25 octobre 2026",
+      "format": "PNG",
+      "width": 1348,
+      "height": 449,
+      "sha256": "0b8fb50847a9126e693b84617533a15ccaeec9c285ae4182f7368ddbe9f4b046",
+      "date": "2026-11-06"
+    },
+    {
+      "name": "linkedin-icone",
+      "path": "images/newsletter/linkedin-icone.png",
+      "origin": "Éléments originaux du design newsletter Ocean Tech validé le 25 octobre 2026",
+      "format": "PNG",
+      "width": 250,
+      "height": 250,
+      "sha256": "f36ead538454703ea9e19413ce20573b1d74dd52f1d26f67ce297a22eaa66a1b",
+      "date": "2026-11-06"
+    },
+    {
+      "name": "bluesky-icone",
+      "path": "images/newsletter/bluesky-icone.png",
+      "origin": "Éléments originaux du design newsletter Ocean Tech validé le 25 octobre 2026",
+      "format": "PNG",
+      "width": 250,
+      "height": 250,
+      "sha256": "ed71fd7ad2e1372b7c7bc4201c9c173625d843fbbe8233319ed99a1711b7d5e3",
+      "date": "2026-11-06"
+    },
+    {
+      "name": "instagram-icone",
+      "path": "images/newsletter/instagram-icone.png",
+      "origin": "Éléments originaux du design newsletter Ocean Tech validé le 25 octobre 2026",
+      "format": "PNG",
+      "width": 250,
+      "height": 250,
+      "sha256": "003b94921ffc20c13f0b85df7f5045cd010a582afdfd84a1583feb7fb1893faa",
+      "date": "2026-11-06"
+    }
+  ]
+}
